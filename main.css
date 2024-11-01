@@ -168,7 +168,7 @@ input.error {
 }
 
 body.mobile #mainWrapper { padding: 50px 50px 0; }
-body.mobile #startMenu { max-height: 350px; }
+body.mobile #startMenu { max-height: 400px; }
 body.mobile #linkHolder { display: none; }
 
 .referral {
