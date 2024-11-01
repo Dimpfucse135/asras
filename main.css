@@ -435,7 +435,8 @@ body.mobile .startMenuSlidingContent {
 }
 
 .icon {
-  display: block;
+  display: relative;
+  top: -5px;
   width: 96px;
   height: 96px;
   border-radius: 50%;
