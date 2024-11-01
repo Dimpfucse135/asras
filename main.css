@@ -25,7 +25,7 @@ html, body {
 body {
   font-family: Ubuntu;
   font-size: 14px;
-  background-color: #484848;
+  background: linear-gradient(90deg, #484848, #999999);
 }
 
 hr {
