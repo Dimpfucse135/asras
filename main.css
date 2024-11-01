@@ -158,7 +158,7 @@ input.error {
   max-height: 390px;
   padding: 10px;
   border-radius: 5px;
-  background-color: #DDE6EB;
+  background: linear-gradient(90deg, #DDE6EB, #b7c1c7);
   box-sizing: border-box;
   overflow: hidden;
 }
