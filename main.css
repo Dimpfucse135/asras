@@ -194,7 +194,7 @@ body.mobile #linkHolder { display: none; }
 
 .startMenuHolder {
   width: 350px;
-  height: 350px;
+  height: 400px;
   padding: 10px;
   overflow: hidden;
   display: inline-block;
@@ -435,8 +435,7 @@ body.mobile .startMenuSlidingContent {
 }
 
 .icon {
-  display: relative;
-  top: 8px;
+  display: block;
   width: 96px;
   height: 96px;
   border-radius: 50%;
