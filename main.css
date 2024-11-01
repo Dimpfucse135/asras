@@ -205,6 +205,9 @@ body.mobile #linkHolder { display: none; }
 .startMenuHolder.shrinkable {
   width: calc(100% - 394px);
 }
+.startMenuHolder.shrinkable * {
+  border-radius: 10px;
+}
 body.mobile .startMenuHolder {
   height: 300px;
 }
